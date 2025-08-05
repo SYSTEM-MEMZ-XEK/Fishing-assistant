@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video Watching Function", "Video Watching Function.csproj", "{4CC911FE-7E22-4231-BDAC-F165E3C868FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC911FE-7E22-4231-BDAC-F165E3C868FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC911FE-7E22-4231-BDAC-F165E3C868FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC911FE-7E22-4231-BDAC-F165E3C868FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC911FE-7E22-4231-BDAC-F165E3C868FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF7FDDD-ABB3-41A1-B6BA-146CCEE26246}
+	EndGlobalSection
+EndGlobal
