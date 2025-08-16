@@ -1,6 +1,8 @@
 # 摸鱼助手(Fishing-assistant)V1.0正式版
+## B站视频：【摸鱼助手1.0正式发布！】 https://www.bilibili.com/video/BV1d8YqzAEhN/?share_source=copy_web&vd_source=d6611fc959a68d160b7e301089f70861
 ## 正式版已发布，可能会有部分影响使用BUG，若发现BUG或者修改建议请在作者视频评论区下方评论或者提出issure
 ## 安装目录下有一些示例小说和视频，可用这些来测试小说阅读和视频观看功能有没有BUG。
+## 注意：视频播放器还需要libvlc库文件，由于文件太多并且还大，上传慢，下载更慢，所以项目文件中没有libvlc文件夹，libvlc下载地址(根据实际情况下载所对应的版本)：https://download.videolan.org/pub/videolan/vlc/
 
 # 目前代码中写出的功能：
 ## 小说阅读器功能：
